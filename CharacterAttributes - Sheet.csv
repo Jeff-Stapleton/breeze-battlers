@@ -1,0 +1,8 @@
+,1
+MaxHealth,100
+Health,100
+MovementSpeed,500
+JumpVelocity,500
+VolumeMultipler,0.75
+Damage,0
+FOVMultiplier,1

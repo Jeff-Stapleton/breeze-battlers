@@ -1,0 +1,3 @@
+[submodule "Plugins/ExtendedLibrary"]
+	path = Plugins/ExtendedLibrary
+	url = https://jeffstapleton@dev.azure.com/jeffstapleton/Cambridge%20Games%20Studio/_git/ExtendedLibrary
